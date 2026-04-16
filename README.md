@@ -1,2 +1,9 @@
-# lite-markdown-notes-tool-1
-A simple markdown notes project
+# Markdown Notes
+
+A simple markdown notes project.
+\n
+## Getting Started
+
+```bash
+python app.py
+```
